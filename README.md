@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1600" height="541" alt="image" src="https://github.com/user-attachments/assets/a436d86a-e1ce-4dee-9e4b-d1995f68c5d5" />
+<img src="./typing_gif.gif" alt="Typing animation" width="100%" />
 
 
 ****
