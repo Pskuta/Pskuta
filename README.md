@@ -12,10 +12,20 @@
 
 ## 🧑‍💻 About me
 
-- I build ETL pipelines, data warehouses, data lakehouse architectures and analyze data
-- Kraków / Kielce, Poland
-- MSc in Computer Science
-- Looking for opportunities in data analysis and data engineering
+```json
+{
+  "description": "I build ETL pipelines, data warehouses, data lakehouse architectures and analyze data",
+  "location": {
+    "cities": ["Kraków", "Kielce"],
+    "country": "Poland"
+  },
+  "education": "MSc in Computer Science",
+  "open_to_opportunities": [
+    "Data Analysis",
+    "Data Engineering"
+  ]
+}
+```
 
 ## 🌱 Currently learning
 
