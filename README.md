@@ -41,6 +41,7 @@
 **Data processing**<br>
 ![PySpark](https://img.shields.io/badge/PySpark-0B3D91?style=flat-square&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0B3D91?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0B3D91?style=flat-square&logo=numpy&logoColor=white)
 
 **Orchestration & platforms**<br>
 ![Databricks](https://img.shields.io/badge/Databricks-0B3D91?style=flat-square&logo=databricks&logoColor=white)
@@ -53,6 +54,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-0B3D91?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0B3D91?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0B3D91?style=flat-square&logo=github&logoColor=white)
+
+**Data visualization & BI**<br>
+![Tableau](https://img.shields.io/badge/Tableau-0B3D91?style=flat-square&logo=tableau&logoColor=white)
 
 
 ## 📊 GitHub stats
