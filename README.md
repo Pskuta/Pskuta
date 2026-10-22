@@ -21,8 +21,8 @@
   },
   "education": "MSc in Computer Science",
   "open_to_opportunities": [
-    "Data Analysis",
     "Data Engineering"
+    "Data Analysis",
   ]
 }
 ```
