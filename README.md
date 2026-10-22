@@ -30,7 +30,7 @@
 ## 🌱 Currently learning
 
 > [!NOTE]
-> <b>advanced Spark, databricks platform</b>
+> <b>kafka, advanced Spark</b>
 
 ## 🧰 Tech stack
 
