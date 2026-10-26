@@ -43,6 +43,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0B3D91?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0B3D91?style=flat-square&logo=numpy&logoColor=white)
 
+**Streaming & messaging**<br>
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0B3D91?style=flat-square&logo=apachekafka&logoColor=white)
+
 **Orchestration & platforms**<br>
 ![Databricks](https://img.shields.io/badge/Databricks-0B3D91?style=flat-square&logo=databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-0B3D91?style=flat-square&logo=apacheairflow&logoColor=white)
