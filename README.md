@@ -62,20 +62,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-0B3D91?style=flat-square&logo=tableau&logoColor=white)
 
 
-## 📊 GitHub stats
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pskuta&show_icons=true&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pskuta&show_icons=true&theme=default&hide_border=true">
-  <img alt="GitHub stats for Pskuta" src="https://github-readme-stats.vercel.app/api?username=Pskuta&show_icons=true&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pskuta&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pskuta&layout=compact&theme=default&hide_border=true">
-  <img alt="Most used languages of Pskuta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pskuta&layout=compact&hide_border=true">
-</picture>
-</div>
 
 
 
